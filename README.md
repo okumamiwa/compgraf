@@ -5,9 +5,9 @@ Portfolio da disciplina: https://okumamiwa.github.io/compgraf/
 ## Atividade 1 (entrega 31/10) 
 
 ### Informações do Projeto:
-* Código-fonte: https://github.com/dreis0/abcg/tree/atividade-1/examples/rocket
-* Relatório: https://github.com/okumamiwa/compgraf/tree/main/rocket/
-* Link da aplicação rodando em WebAssembly: https://okumamiwa.github.io/compgraf/rocket/
+* Código-fonte: [Link github](https://github.com/dreis0/abcg/tree/atividade-1/examples/rocket)
+* Relatório: [README](https://github.com/okumamiwa/compgraf/tree/main/rocket/)
+* Link da aplicação rodando em WebAssembly: [Rocket](https://okumamiwa.github.io/compgraf/rocket/)
 
 ## Atividade 2 (entrega 14/11) 
 

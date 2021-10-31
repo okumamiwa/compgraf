@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Computação Gráfica [MCTA008-17]</title>
+
+    <style type="text/css">
+        pre>code.sourceCode {
+            white-space: pre;
+            position: relative;
+        }
+
+        pre>code.sourceCode>span {
+            display: inline-block;
+            line-height: 1.25;
+        }
+
+        pre>code.sourceCode>span:empty {
+            height: 1.2em;
+        }
+
+        .sourceCode {
+            overflow: visible;
+        }
+
+        code.sourceCode>span {
+            color: inherit;
+            text-decoration: inherit;
+        }
+
+        pre.sourceCode {
+            margin: 0;
+        }
+
+        @media screen {
+            div.sourceCode {
+                overflow: auto;
+            }
+        }
+
+        @media print {
+            pre>code.sourceCode {
+                white-space: pre-wrap;
+            }
+
+            pre>code.sourceCode>span {
+                text-indent: -5em;
+                padding-left: 5em;
+            }
+        }
+
+        pre.numberSource code {
+            counter-reset: source-line 0;
+        }
+
+        pre.numberSource code>span {
+            position: relative;
+            left: -4em;
+            counter-increment: source-line;
+        }
+
+        pre.numberSource code>span>a:first-child::before {
+            content: counter(source-line);
+            position: relative;
+            left: -1em;
+            text-align: right;
+            vertical-align: baseline;
+            border: none;
+            display: inline-block;
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+            -khtml-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            padding: 0 4px;
+            width: 4em;
+        }
+
+        pre.numberSource {
+            margin-left: 3em;
+            padding-left: 4px;
+        }
+
+        @media screen {
+            pre>code.sourceCode>span>a:first-child::before {
+                text-decoration: underline;
+            }
+        }
+
+        code span.al {
+            font-weight: bold;
+        }
+
+        /* Alert */
+        code span.an {
+            font-style: italic;
+        }
+
+        /* Annotation */
+        code span.cf {
+            font-weight: bold;
+        }
+
+        /* ControlFlow */
+        code span.co {
+            font-style: italic;
+        }
+
+        /* Comment */
+        code span.cv {
+            font-style: italic;
+        }
+
+        /* CommentVar */
+        code span.do {
+            font-style: italic;
+        }
+
+        /* Documentation */
+        code span.dt {
+            text-decoration: underline;
+        }
+
+        /* DataType */
+        code span.er {
+            font-weight: bold;
+        }
+
+        /* Error */
+        code span.in {
+            font-style: italic;
+        }
+
+        /* Information */
+        code span.kw {
+            font-weight: bold;
+        }
+
+        /* Keyword */
+        code span.pp {
+            font-weight: bold;
+        }
+
+        /* Preprocessor */
+        code span.wa {
+            font-style: italic;
+        }
+
+        /* Warning */
+    </style>
+
+    <style type="text/css">
+        /* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+
+        div.csl-entry {
+            clear: both;
+        }
+
+        .hanging div.csl-entry {
+            margin-left: 2em;
+            text-indent: -2em;
+        }
+
+        div.csl-left-margin {
+            min-width: 2em;
+            float: left;
+        }
+
+        div.csl-right-inline {
+            margin-left: 2em;
+            padding-left: 1em;
+        }
+
+        div.csl-indent {
+            margin-left: 2em;
+        }
+    </style>
+
+    <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+    <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+        <div class="book-body">
+            <div class="body-inner">
+                <div class="book-header" role="navigation">
+                    <h1>
+                        <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Computação Gráfica [MCTA008-17]</a>
+                    </h1>
+                </div>
+
+                <div class="page-wrapper" tabindex="-1" role="main">
+                    <div class="page-inner">
+                        <section class="normal" id="section-">
+                            <div id="config" class="section level1" number="1">
+                                <h1>Portfolio da Disciplina</h1>
+                                <p>Atividades desenvolvidas ao longo do curso:</p>
+                                <h3>Atividade 1 (entrega 31/10)</h3>
+                                <ul>
+                                    <li>Descrição: desenvolvimento de uma aplicação gráfica interativa com
+                                        gráficos 2D. A aplicação pode ser um jogo simples ou uma demonstração gráfica
+                                        interativa;</li>
+                                    <li>Código fonte: <a
+                                            href="https://github.com/dreis0/abcg/tree/atividade-1/examples/rocket">Link
+                                            github</a>;</li>
+                                    <li>Relatório: <a
+                                            href="https://github.com/okumamiwa/compgraf/tree/main/rocket/">README</a>;
+                                    </li>
+                                    <li>Aplicação em WebAssembly: <a
+                                            href="https://okumamiwa.github.io/compgraf/rocket/">Rocket</a>;</li>
+                                </ul>
+
+                                <h3>Atividade 2 (entrega 14/11)</h3>
+                                <ul>
+                                    <li>Descrição: desenvolvimento de uma aplicação gráfica 3D;</li>
+                                    <li>Código fonte: </li>
+                                    <li>Relatório: </li>
+                                    <li>Aplicação em WebAssembly: </li>
+                                </ul>
+
+                                <h3>Atividade 3 (entrega 05/12)</h3>
+                                <ul>
+                                    <li>Descrição: desenvolvimento de uma aplicação gráfica interativa 3D
+                                        com iluminação e texturização. Essa atividade pode ser um aperfeiçoamento da
+                                        aplicação feita na atividade A2;</li>
+                                    <li>Código fonte: </li>
+                                    <li>Relatório: </li>
+                                    <li>Aplicação em WebAssembly: </li>
+                                </ul>
+                            </div>
+                        </section>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

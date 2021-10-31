@@ -9,7 +9,8 @@ Rocket
 Projeto baseado no *asteroids* dado em aula na semana 5 do curso de Computação Gráfica [MCTA008-17]
 
 ### Técnicas utilizadas:
+As técnicas utilizadas no projeto foram as seguintes:
 * Biblioteca abcg
 
 ### Projeto em WebAssembly:
-https://okumamiwa.github.io/compgraf/rocket/
+[Rocket](https://okumamiwa.github.io/compgraf/rocket/)
