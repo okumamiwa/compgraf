@@ -23,3 +23,5 @@ As técnicas utilizadas no projeto foram as seguintes:
 
 ### Projeto em WebAssembly:
 [Rocket Trip](https://okumamiwa.github.io/compgraf/rocket/)
+
+![image](https://github.com/okumamiwa/compgraf/blob/main/rocket/rocketTrip.png)
