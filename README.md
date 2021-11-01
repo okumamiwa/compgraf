@@ -2,6 +2,9 @@
 
 Portfolio da disciplina: https://okumamiwa.github.io/compgraf/
 
+## Alunos
+Mariana Miwa Okuma Miyashiro e Miguel dos Reis
+
 ## Atividade 1 (entrega 31/10) 
 
 ### Informações do Projeto:
