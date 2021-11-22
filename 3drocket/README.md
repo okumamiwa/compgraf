@@ -32,4 +32,6 @@ As técnicas utilizadas no projeto foram as seguintes:
 
 
 ### Video de Demonstração:
-<video src='https://drive.google.com/file/d/1JNHZlrRcFAWX6cf9AG_rIUPENIzPi0Lo/view?usp=sharing' width=180/>
+* Link do Video: [Google Drive](https://drive.google.com/file/d/1JNHZlrRcFAWX6cf9AG_rIUPENIzPi0Lo/view?usp=sharing) 
+
+![3DRocket](https://github.com/okumamiwa/compgraf/blob/main/rocket/rocketTrip.png)
