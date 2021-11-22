@@ -30,6 +30,9 @@ As técnicas utilizadas no projeto foram as seguintes:
 * Asteroides: são gerados em posições randômicas, sendo que para cada asteroide na lista de asteroides é escolhido um dos três modelos `.obj` e depois de gerados eles se mantém na mesma posição, girando em torno do próprio eixo
 * Starfield: gerados de forma similar ao projeto *starfield*, modificando as velocidade, tamanho e posições nas quais os objetos são gerados. Foi utilizado um dos modelos de asteroide para gerar cada estrela do starfield, criando um 'estrelas cadentes' na cena.
 
+### Problemas encontrados:
+Ao realizar a compilação para WebAssembly, foi possível rodar a aplicação no servidor local, mas não através do github.io
+
 
 ### Video de Demonstração:
 * Link do Video: [Google Drive](https://drive.google.com/file/d/1JNHZlrRcFAWX6cf9AG_rIUPENIzPi0Lo/view?usp=sharing) 
