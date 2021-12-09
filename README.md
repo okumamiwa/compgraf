@@ -22,8 +22,8 @@ Mariana Miwa Okuma Miyashiro e Miguel dos Reis
 ## Atividade 3 (entrega 05/12) 
 
 ### Informações do Projeto:
-* Código-fonte: 
-* Relatório: 
-* Link da aplicação rodando em WebAssembly: 
+* Código-fonte: se encontra no [repositório](https://github.com/dreis0/abcg/tree/atividade-2), mais especificamente os arquivos específicos do projeto estão dentro da pasta [examples/3drocket](https://github.com/dreis0/abcg/tree/atividade-3/examples/3drocket)
+* Relatório: [README](https://github.com/okumamiwa/compgraf/tree/main/3drocket2/)
+* Link da aplicação rodando: [Google Drive](https://drive.google.com/file/d/1iMEJ74p8OBdjSPd3J4kLwzPWko8RW0OO/view?usp=sharing), que também pode ser visto como gif no [README](https://github.com/okumamiwa/compgraf/tree/main/3drocket2/)
 
 
